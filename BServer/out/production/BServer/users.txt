@@ -1,0 +1,2 @@
+user1:user1:800.0
+user2:user2:1200.0
